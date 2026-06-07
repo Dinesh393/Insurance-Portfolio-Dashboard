@@ -96,7 +96,7 @@ Provides a high-level summary of overall insurance business performance.
 
 ### Screenshot
 
-![Insurance Executive Overview](Insurance Executive Overview.png)
+![Insurance Executive Overview](InsuranceExecutiveOverview.png)
 
 ---
 
@@ -129,7 +129,7 @@ Analyzes claims performance and operational efficiency.
 
 ### Screenshot
 
-![Claims Analysis](Claims Analysis.png)
+![Claims Analysis](ClaimsAnalysis.png)
 
 ---
 
@@ -160,7 +160,7 @@ Evaluates agent productivity and contribution to business growth.
 
 ### Screenshot
 
-![Agent Performance](Agent Performance.png)
+![Agent Performance](AgentPerformance.png)
 
 ---
 
@@ -190,7 +190,7 @@ Analyzes portfolio risk and customer retention behavior.
 
 ### Screenshot
 
-![Risk & Retention Dashboard](Risk and Retention.png)
+![Risk & Retention Dashboard](RiskandRetention.png)
 
 ---
 
